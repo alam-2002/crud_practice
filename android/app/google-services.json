@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "831425985994",
+    "project_id": "crud-practice-student",
+    "storage_bucket": "crud-practice-student.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831425985994:android:db8e19c06c4298f9812333",
+        "android_client_info": {
+          "package_name": "com.example.crud_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqrAcb5FThDC-Sy1W1Xk5w3X5KKm6HAfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
